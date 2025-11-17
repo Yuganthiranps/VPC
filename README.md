@@ -1,8 +1,8 @@
+212223060313
+YUGANTHIRAN P S 
+
 ## Ex.4 Deployment and configuration of a Private Cloud  in AWS
-```
-NAME: JANARTHANAN B
-REG NO: 212223100014
-```
+
 ## Aim:
 To set up of a Private Cloud  in AWS.
 
